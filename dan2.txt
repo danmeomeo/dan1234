@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 dan da sua file dan2 
 
+=======
+duy anh da ghi.
+>>>>>>> c83d52c0f57bd399dbeae9602cf3c4d002232da9
